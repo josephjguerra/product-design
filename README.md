@@ -22,3 +22,51 @@ I'm on various teams who build digital (and physical) products. Most for small b
 - books read
 - team projects
 - preferred tools
+
+## Resources
+- 52 weeks of UX
+- UX Recipe
+- UX Pin
+- Design Kit
+- Hack Design
+- Sidebar
+- Product Hunt
+
+## Curriculum
+### Treehouse
+- Design Foundations
+- Aesthetics Foundations
+- Usability Foundations
+- UX Basics
+- Usability Testing
+- Scrum Basics
+- Web Typography
+- Logo Design Basics
+- Brand Identity Basics
+- Sketch Basics
+- Photoshop Foundations
+- Illustrator for Web Design
+- How to Make a Website
+- CSS Basics
+- Sass Basics
+- Git Basics
+
+###Codecademy
+- Make a Website
+- Make an Interactive website
+- HTML + CSS
+- jQuery
+- JavaScript
+- Learn Command Line
+- Learn Sass
+- Learn AngularJS
+
+###Code School
+- Fundamentals of Design
+- The Elements of Web Design
+- Try Git
+- Discover DevTools
+- 
+###Designlab
+- Design 101
+- UX Research
