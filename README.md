@@ -66,7 +66,7 @@ I'm on various teams who build digital (and physical) products. Most for small b
 - The Elements of Web Design
 - Try Git
 - Discover DevTools
-- 
+
 ###Designlab
 - Design 101
 - UX Research
