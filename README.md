@@ -26,6 +26,7 @@ I'm on various teams who build digital (and physical) products. Most for small b
 ## Resources
 - 52 weeks of UX
 - UX Recipe
+- [hanno design thinking](https://github.com/wearehanno/designthinking/wiki)
 - UX Pin
 - Design Kit
 - Hack Design
