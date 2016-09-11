@@ -14,7 +14,7 @@ I like to combine learning design with front-end web development. Knowing some H
 
 I'm on various teams who build digital (and physical) products. Most for small businesses and the local community. I still have plenty to learn. This is the place to capture that progress.
 
-##Ideas (backlog)
+##Ideas (contents and backlog)
 - curriculum
 - resources, links, articles, blogs
 - methods
@@ -71,3 +71,45 @@ I'm on various teams who build digital (and physical) products. Most for small b
 ###Designlab
 - Design 101
 - UX Research
+
+###Books
+Here are books that have helped me with design. The *bolded books are the most worthwhile*.
+
+####Business Growth
+- EntreLeadership
+- Scaling Up
+- Growth Hacker Marketing
+- Drive
+- To Sell Is Human
+
+####Design Thinking
+- The Design of Everyday Things
+- Sprint
+- The Power of Habit
+- Problem Solving 101
+- Six Thinking Hats
+
+####Entrepreneurship
+- Getting Real
+- Rework
+- Steal Like An Artist
+- Show Your Work
+
+####Writing
+- The Elements of Style
+- On Writing Well
+
+####Strategy
+- How to Win Friends and Influence People
+- The 48 Laws of Power
+- The 38 Strategies of War
+- The Art of Seduction
+- Mastery
+- The 50th Law
+- The Book of the Five Rings
+- The Art of War
+
+####Philosophy
+- Tao Te Ching
+- The Tao of Pooh
+- The Te of Piglet
