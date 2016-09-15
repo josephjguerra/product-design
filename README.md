@@ -33,6 +33,54 @@ I'm on various teams who build digital (and physical) products. Most for small b
 - Sidebar
 - Product Hunt
 
+## Product Processes
+
+### [dschool](http://dschool.stanford.edu/dgift/) Design Thinking stages
+- Empathize
+- Define
+- Ideate
+- Prototype
+- Test
+
+### Designlab recommended Design Thinking activities
+####Empathy
+- Contextual Inquiry
+- Diary Studies
+- Customer Interviews
+- Customer Surveys
+- Eavesdropping
+- Research Plan
+
+####Define
+- Empathy Map
+- Tensions, Contradictions, and Surprise Map
+- Personas
+- Empathy Map
+- Existing Storyboard
+- Customer Journey Map
+- Heuristic Review
+- Feature Matrix
+- SWOT Analysis
+- Competitor Analysis
+- POV Statements
+- How Might We
+
+####Ideate
+- Brainstorm
+- Potential Storyboard
+- Crazy Eights
+
+####Prototype
+- Learning Canvas
+- Adjusted Storyboard
+- Landing Page Creation
+
+####Test
+- Storyboard Playback
+- Online Concept Testing
+- Storyboard review
+- Landing Page Testing
+
 ## Curriculum
 ### Treehouse
 - Design Foundations
