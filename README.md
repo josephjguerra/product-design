@@ -32,6 +32,8 @@ I'm on various teams who build digital (and physical) products. Most for small b
 - Hack Design
 - Sidebar
 - Product Hunt
+- [Awesome Design](https://github.com/gztchan/awesome-design) - huge list of design resources
+- Crew
 
 ## Product Processes
 
@@ -80,6 +82,26 @@ I'm on various teams who build digital (and physical) products. Most for small b
 - Online Concept Testing
 - Storyboard review
 - Landing Page Testing
+
+### Full Product Development Process
+This process is in a rough order. It's meant to be more cyclical, than appears the list here. Feedback gets repeated after concepts, prototypes, and development.
+- Ideation
+- Research
+- Pitch
+- Validation
+- Concepts
+- Feedback<br /><br />
+- Product Strategy
+- Technical Strategy
+- Wireframes
+- Prototype
+- Feedback<br /><br />
+- Develop
+- Test
+- Release
+- Feedback
+- Analyse
+- Repeat
 
 ## Curriculum
 ### Treehouse
