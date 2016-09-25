@@ -143,35 +143,35 @@ This process is in a rough order. It's meant to be more cyclical, than appears t
 - UX Research
 
 ###Books
-Here are books that have helped me with design. The *bolded books are the most worthwhile*.
+Here are books that have helped me with design. I found the **bolded books most worthwhile**.
 
 ####Business Growth
-- EntreLeadership
+- **EntreLeadership**
 - Scaling Up
 - Growth Hacker Marketing
 - Drive
 - To Sell Is Human
 
 ####Design Thinking
-- The Design of Everyday Things
-- Sprint
+- **The Design of Everyday Things**
+- **Sprint**
 - The Power of Habit
 - Problem Solving 101
 - Six Thinking Hats
 
 ####Entrepreneurship
 - Getting Real
-- Rework
-- Steal Like An Artist
+- **Rework**
+- **Steal Like An Artist**
 - Show Your Work
 
 ####Writing
-- The Elements of Style
+- **The Elements of Style**
 - On Writing Well
 
 ####Strategy
-- How to Win Friends and Influence People
-- The 48 Laws of Power
+- **How to Win Friends and Influence People**
+- **The 48 Laws of Power**
 - The 38 Strategies of War
 - The Art of Seduction
 - Mastery
