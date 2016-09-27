@@ -24,16 +24,17 @@ I'm on various teams who build digital (and physical) products. Most for small b
 - preferred tools
 
 ## Resources
-- 52 weeks of UX
-- UX Recipe
+- [52 weeks of UX](http://52weeksofux.com/)
+- [UX Recipe](https://uxrecipe.github.io/)
 - [hanno design thinking](https://github.com/wearehanno/designthinking/wiki)
 - UX Pin
 - Design Kit
-- Hack Design
+- [Hack Design](https://hackdesign.org/)
 - Sidebar
-- Product Hunt
+- [Product Hunt](https://www.producthunt.com/)
 - [Awesome Design](https://github.com/gztchan/awesome-design) - huge list of design resources
 - Crew
+- [Google Ventures Design Sprint](http://www.gv.com/sprint/)
 
 ## Product Processes
 
@@ -46,12 +47,12 @@ I'm on various teams who build digital (and physical) products. Most for small b
 
 ### Designlab recommended Design Thinking activities
 ####Empathy
+- Research Plan
 - Contextual Inquiry
 - Diary Studies
 - Customer Interviews
 - Customer Surveys
 - Eavesdropping
-- Research Plan
 
 ####Define
 - Empathy Map
@@ -99,7 +100,7 @@ This process is in a rough order. It's meant to be more cyclical, than appears t
 - Develop
 - Test
 - Release
-- Feedback
+- Feedback<br /><br />
 - Analyse
 - Repeat
 
