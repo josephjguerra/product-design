@@ -1,14 +1,18 @@
-# Learning Design
+# Product Design
 
-## [See the wiki now](https://github.com/josephjguerra/learning-design/wiki) :point_right:
+👋 I'm Joe G. Senior product manager, strategist, owner, and design sprint facilitator.
 
-* :blue_book: [Books](https://github.com/josephjguerra/learning-design/wiki/Books) 
-* :page_with_curl: [Curriculum](https://github.com/josephjguerra/learning-design/wiki/Curriculum)
-* :wrench: [Process](https://github.com/josephjguerra/learning-design/wiki/Product-Processes)
-* :gem:	[Resources](https://github.com/josephjguerra/learning-design/wiki/Resources)
+📜 These are my curated lists of product and design resources. These made me into the [product person](https://josephjguerra.com/) that I am today!
 
-I'm learning design. This is my collection of resources, summaries, and thoughts. 
+❤️ May these lists be helpful for you! Especially if you are a newer product person, or are curious about my opinions.
 
-This is just as much for me, as for others, who find it useful. 
+* 📚 [Books](./books.md) 
+* 🧰 [Processes](./processes.md)
+* 💎 [Resources](./resources.md)
+* 🌱 [Curriculum](./curriculum.md)
 
-Tweet me [@josephjguerra](https://twitter.com/josephjguerra) to talk about it.
+## Background
+
+When I say product design, I mean holistic problem solving methods with software. I mean product strategy, design thinking, user research, user experience, product management, and technical team leadership.
+
+I like to combine my product and design experience with basic front-end web development knowledge. Knowing some HTML, CSS, JavaScript, and frameworks serves two purposes. First, it allows me to bring ideas and prototypes to life on my own. (No-code is an option too!) And it helps me work with technical teams and understand their space.
