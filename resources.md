@@ -1,9 +1,10 @@
 My curated list of helpful resources:
 
+⭐️ These are the most worthwhile, in my opinion.
+
 ## Product
-- [Product Hunt](https://www.producthunt.com/)
-- [46 PM tools](https://www.aha.io/roadmapping/guide/product-management/which-tools-do-product-managers-use)
-- [designmadeforyou.com](http://www.designmadeforyou.com/)
+- [Aha! Product Management Guide](https://www.aha.io/roadmapping/guide/product-management)
+- [designmadeforyou.com](http://www.designmadeforyou.com/)⭐️
 - [mobilespoon](https://www.mobilespoon.net/)
 
 ## Design
@@ -14,10 +15,13 @@ My curated list of helpful resources:
 - [Awesome Design](https://github.com/gztchan/awesome-design)
 
 ## UX
+- [Laws of UX](https://lawsofux.com/)⭐️
 - [52 weeks of UX](http://52weeksofux.com/)
-- [Laws of UX](https://lawsofux.com/)
 - [UX Recipe](https://uxrecipe.github.io/)
 - [UX Checklist](http://uxchecklist.github.io/)
 
 ## Presenting
-- [speaking.io](https://speaking.io/)
+- [speaking.io](https://speaking.io/)⭐️
+
+## News
+- [Product Hunt](https://www.producthunt.com/)
